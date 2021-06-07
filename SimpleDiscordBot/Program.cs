@@ -1,11 +1,6 @@
 ﻿using System;
-using Discord;
-using Discord.Net;
-using Discord.Commands;
-using Discord.WebSocket;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Configuration.Json;
+
+//ADD YOUR config.json FILE TOGETHER WITH YOUR TOKEN TO SimpleDiscordBot\SimpleDiscordBot\bin\Debug\net5.0 
 
 namespace SimpleDiscordBot
 {
